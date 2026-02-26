@@ -4,13 +4,14 @@ A visually dynamic and customizable screen saver featuring geometric shapes that
 
 Features
 
-    Smooth Animation: High-performance rendering of shapes moving across the screen.
+Smooth Animation: High-performance rendering of shapes moving across the screen.
 
-    Collision Physics: Shapes detect screen boundaries and bounce back realistically.
+Collision Physics: Shapes detect screen boundaries and bounce back realistically.
 
-    Randomized Elements: Shapes spawn with random colors, sizes, and initial directions.
+Randomized Elements: Shapes spawn with random colors, sizes, and initial directions.
 
-    Customizable: Easily tweak the speed, number of shapes, or color palettes within the code.
+Customizable: Easily tweak the speed, number of shapes, or color palettes within the code.
 
 Built With Java 
+
 
